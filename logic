@@ -1,0 +1,11 @@
+Logic 
+
+1- Open the bash console and activate the virtual environment. 
+	use command "workon {virtual environment name}"
+2- Clone 100068-dowellLicenses repository to your pythonanywhere account .
+	use command "git clone https://github.com/LL09-LegalCompliance-dowell/100068-dowellLicenses.git "
+3- Open the dowellLicenses.py file and give your {function number-Modul name} in line number 15 .
+	ex: pythonanywhere= "100045-GithubBackup"
+4- Go to Tasks and set the time (in UTC) of the day that you want your script to be executed i.e is 6:30 UTC and copy the path of the Python file .
+	ex: "/home/100045/dowellLicenses.py"
+5- Click the Create button and you’re done .
