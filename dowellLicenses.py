@@ -19,7 +19,7 @@ curr_time = time.localtime()
 time = time.strftime("%H:%M:%S", curr_time)
 
 fromaddr = "testdowell123@gmail.com"
-toaddr = ["thomas@dowellresearch.sg","manish@dowellresearch.in","charumaheshwari41@gmail.com"]
+toaddr = ["thomas@dowellresearch.sg","manish@dowellresearch.in","charumaheshwari41@gmail.com","anjanas@dowellresearch.in"]
 #toaddr = ["manish@dowellresearch.in"]
 msg = MIMEMultipart()
 msg['From'] = fromaddr
